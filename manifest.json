@@ -1,0 +1,12 @@
+{
+  "name": "Reply Modifications",
+  "author": [
+    {
+      "name": "Swishilicous",
+      "id": "474322346937810955"
+    }
+  ],
+  "description": "Modifications for reply based notifications.",
+  "version": "1.0.0",
+  "id": "swish.reply-modifications"
+}

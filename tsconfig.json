@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
+    "jsx": "react",
+    "esModuleInterop": true,
+    "types": [
+      "./node_modules/unbound-types"
+    ]
+  }
+}

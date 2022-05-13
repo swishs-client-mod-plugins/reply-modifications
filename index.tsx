@@ -1,3 +1,5 @@
+/* The source code below is licensed under MIT */
+
 import Plugin from '@structures/plugin';
 
 import { create } from '@patcher';

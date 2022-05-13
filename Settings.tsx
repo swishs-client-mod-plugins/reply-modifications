@@ -1,3 +1,5 @@
+/* The source code below is licensed under MIT */
+
 import React from 'react';
 import { RadioGroup } from '@components/settings';
 
